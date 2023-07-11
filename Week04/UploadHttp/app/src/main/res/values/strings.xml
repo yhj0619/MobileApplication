@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Upload Http</string>
+    <string name="url">http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.xml?key=</string>
+    <string name="key">b20578b9efc5386727d9694cfd48e2e6</string>
+</resources>

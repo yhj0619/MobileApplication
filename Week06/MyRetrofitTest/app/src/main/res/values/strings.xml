@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyRetrofitTest</string>
+    <string name="kobis_key">b20578b9efc5386727d9694cfd48e2e6</string>
+    <string name="api_url">http://kobis.or.kr/</string>
+</resources>

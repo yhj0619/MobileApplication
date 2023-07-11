@@ -1,0 +1,4 @@
+#Wed Dec 07 19:58:29 KST 2022
+base.0=C\:\\Work\\MobileApplication\\Week09\\AlarmTest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
